@@ -1,0 +1,6 @@
+{
+  "name": "Christmas School Host Portal",
+  "description": "Live event hosting, classroom controls, timetable, games, and announcements portal for Elijah Victor at Victor's Christmas School 2026.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
